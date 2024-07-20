@@ -1,0 +1,23 @@
+{
+  "name": "synace",
+  "displayName": "synace",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "SagarHarsora",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": ["synace","punky","happynewyear"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "synace",
+        "uiTheme": "vs-dark",
+        "path": "./themes/synace-color-theme.json"
+      }
+    ]
+  }
+}
